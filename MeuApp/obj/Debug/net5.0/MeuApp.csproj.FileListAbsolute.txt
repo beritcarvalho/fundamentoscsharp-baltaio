@@ -1,0 +1,16 @@
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\bin\Debug\net5.0\MeuApp.exe
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\bin\Debug\net5.0\MeuApp.deps.json
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.json
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.dev.json
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\bin\Debug\net5.0\MeuApp.dll
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\bin\Debug\net5.0\ref\MeuApp.dll
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\bin\Debug\net5.0\MeuApp.pdb
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.csproj.AssemblyReference.cache
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfoInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfo.cs
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.dll
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\ref\MeuApp.dll
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.pdb
+C:\estudos\fundamentoscsharp-baltaio\MeuApp\obj\Debug\net5.0\MeuApp.genruntimeconfig.cache
