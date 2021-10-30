@@ -87,6 +87,7 @@ namespace StopWatch
                     Thread.Sleep(1000);
                 }
             }
+
             Console.Clear();
             Console.WriteLine("StopWacth Finalizado");
             Thread.Sleep(2500);
