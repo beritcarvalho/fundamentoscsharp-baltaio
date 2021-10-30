@@ -15,12 +15,12 @@ namespace StopWatch
 
             Console.Clear();
             Console.WriteLine("Conta tempo\n\nC = Crescente\nD = Decrecente\n0 = Sair");
-            string formaDeContagem = Console.ReadLine().ToLower();
+            string wayToCount = Console.ReadLine().ToLower();
 
-            if (formaDeContagem != "d" && formaDeContagem != "c" && formaDeContagem != "0")
+            if (wayToCount != "d" && wayToCount != "c" && wayToCount != "0")
                 Menu();
 
-            if (formaDeContagem == "0")
+            if (wayToCount == "0")
                 System.Environment.Exit(0);
 
             Console.Clear();
@@ -41,7 +41,7 @@ namespace StopWatch
                 multiplier = 60;
 
             PreStart();
-            Start(time * multiplier, formaDeContagem);
+            Start(time * multiplier, wayToCount);
 
         }
 
