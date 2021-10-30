@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3r989RcaSaF9vKD4mewHVMTsjM+ErJOHiwGevVIHMwI/Ae+ZMwLZirWQFNnm0MVYPKTUeDXYSN59szU0AD7TBg==",
+  "dgSpecHash": "pjKX7b4FGLKv9xBHNgv041xoD1W7XcJWmLd3trsbhaz+/YmiX6I9okf0LaDkuFlZ+sKqIXc2htUlJUQddwOIhA==",
   "success": true,
-  "projectFilePath": "C:\\estudos\\fundamentoscsharp-baltaio\\MeuApp\\MeuApp.csproj",
+  "projectFilePath": "C:\\estudos\\fundamentoscsharp-baltaio\\fundamentoscsharp-baltaio\\MeuApp\\MeuApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

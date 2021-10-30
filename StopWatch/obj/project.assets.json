@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\estudos\\fundamentoscsharp-baltaio\\fundamentoscsharp-baltaio\\MeuApp\\MeuApp.csproj",
-      "projectName": "MeuApp",
-      "projectPath": "C:\\estudos\\fundamentoscsharp-baltaio\\fundamentoscsharp-baltaio\\MeuApp\\MeuApp.csproj",
+      "projectUniqueName": "C:\\estudos\\fundamentoscsharp-baltaio\\fundamentoscsharp-baltaio\\StopWatch\\StopWatch.csproj",
+      "projectName": "StopWatch",
+      "projectPath": "C:\\estudos\\fundamentoscsharp-baltaio\\fundamentoscsharp-baltaio\\StopWatch\\StopWatch.csproj",
       "packagesPath": "C:\\Users\\t2s-user-cod212\\.nuget\\packages\\",
-      "outputPath": "C:\\estudos\\fundamentoscsharp-baltaio\\fundamentoscsharp-baltaio\\MeuApp\\obj\\",
+      "outputPath": "C:\\estudos\\fundamentoscsharp-baltaio\\fundamentoscsharp-baltaio\\StopWatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
