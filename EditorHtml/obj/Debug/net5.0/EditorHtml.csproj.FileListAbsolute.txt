@@ -1,0 +1,16 @@
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.AssemblyReference.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache

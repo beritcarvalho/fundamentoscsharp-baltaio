@@ -1,0 +1,16 @@
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\bin\Debug\net5.0\TextEditor.exe
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\bin\Debug\net5.0\TextEditor.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
