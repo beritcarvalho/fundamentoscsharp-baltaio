@@ -1,0 +1,16 @@
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\bin\Debug\net5.0\teste.exe
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\bin\Debug\net5.0\teste.deps.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\bin\Debug\net5.0\teste.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\bin\Debug\net5.0\ref\teste.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\bin\Debug\net5.0\teste.pdb
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.csproj.AssemblyReference.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\ref\teste.dll
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.pdb
+C:\estudos\fundamentoscsharp-baltaio\fundamentoscsharp-baltaio\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
